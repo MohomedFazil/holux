@@ -721,6 +721,10 @@ body.dark-theme {
     font-size: var(--normal-font-size);
 }
 
+.contact_card-description {
+    font-size: var(--small-font-size);
+}
+
 .contact_card-button {
     font-size: var(--smaller-font-size);
     padding: 14px 0;
